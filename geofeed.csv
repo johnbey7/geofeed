@@ -1,5 +1,2 @@
-# Location: NTT FRA1 Datacenter, Frankfurt am Main, Germany
-# Format: RFC 8805
-# Last updated: 2026-04-22
-194.152.136.0/24,DE,DE-HE,Frankfurt,
-185.37.103.0/24,DE,DE-HE,Frankfurt,
+194.152.136.0/24,DE,DE-HE,Frankfurt
+185.37.103.0/24,DE,DE-HE,Frankfurt
